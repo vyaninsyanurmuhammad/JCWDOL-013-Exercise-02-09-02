@@ -11,7 +11,8 @@ export default withMT({
   theme: {
     extend: {
       fontFamily: {
-        chirpRegular: ["ChirpRegular", "sans-serif"]
+        chirpRegular: ["ChirpRegular", "sans-serif"],
+        chirpMedium: ["ChirpMedium", "sans-serif"]
       }
     },
   },

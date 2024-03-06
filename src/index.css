@@ -7,6 +7,27 @@
     src: url('./assets/fonts/Chirp/ChirpRegular.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'ChirpMedium';
+    src: url('./assets/fonts/Chirp/ChirpMedium.ttf') format('truetype');
+}
+
+@layer utilities {
+
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    .no-scrollbar::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* Hide scrollbar for IE, Edge and Firefox */
+    .no-scrollbar {
+        -ms-overflow-style: none;
+        /* IE and Edge */
+        scrollbar-width: none;
+        /* Firefox */
+    }
+}
+
 /* width */
 ::-webkit-scrollbar {
     width: 8px;
@@ -19,7 +40,7 @@
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: #2196f3;
+    background: #1976d2;
     border-radius: 5px;
 }
 

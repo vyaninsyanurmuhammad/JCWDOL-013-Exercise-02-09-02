@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": "vyanisnya.nurm",
+      "name": "Vyan Insya Nur M",
+      "password": "12345",
+      "followed": [],
+      "following": []
+    },
+    {
+      "id": "vyaninsya",
+      "name": "Vyan Insya",
+      "password": "12345",
+      "followed": [],
+      "following": []
+    },
+    {
+      "id": "dazzle",
+      "name": "Ahmad Dazzle",
+      "password": "12345",
+      "followed": [],
+      "following": []
+    }
+  ],
+  "posts": [
+    {
+      "id": "12531b59-12ce-4cc7-8a6f-7121ed5e0d7a",
+      "name": "Vyan Insya",
+      "twitt": "Hello World 🐱‍🏍🐱‍👤",
+      "twitted_by": "vyaninsya",
+      "likes": [],
+      "comments": [],
+      "created_at": "3/6/2024, 2:44:13 PM"
+    },
+    {
+      "id": "062791e4-e614-4a93-97b8-c23c17a6cb86",
+      "name": "Ahmad Dazzle",
+      "twitt": "Beautiful Wolrd 😻🐱‍🚀",
+      "twitted_by": "dazzle",
+      "likes": [],
+      "comments": [],
+      "created_at": "3/6/2024, 2:54:45 PM"
+    },
+    {
+      "id": "4f8574b0-e060-4306-88f1-04798d061ebe",
+      "name": "Ahmad Dazzle",
+      "twitt": "Cat is the best 😹",
+      "twitted_by": "dazzle",
+      "likes": [],
+      "comments": [],
+      "created_at": "3/6/2024, 5:08:09 PM"
+    },
+    {
+      "id": "c282a6c4-57fd-4dd2-8da3-e8458b55e9ec",
+      "name": "Vyan Insya",
+      "twitt": "Happy Ramadhan Karem 🐫",
+      "twitted_by": "vyaninsya",
+      "likes": [],
+      "comments": [],
+      "created_at": "3/6/2024, 5:12:02 PM"
+    }
+  ]
+}
